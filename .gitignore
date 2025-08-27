@@ -1,0 +1,16 @@
+# IDE & OS
+.vs/
+.vscode/
+*.vsidx
+*.sqlite
+*.suo
+*.user
+Thumbs.db
+.DS_Store
+
+# build/output
+bin/
+obj/
+node_modules/
+dist/
+*.log
